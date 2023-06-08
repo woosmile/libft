@@ -65,7 +65,6 @@ else
 endif
 
 all : $(NAME)
-
 bonus : 
 	make WITH_BONUS=1 all
 
